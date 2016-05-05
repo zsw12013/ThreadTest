@@ -6,8 +6,6 @@ public class Test {
 	    return counter.incrementAndGet();
 	}
   public static void main(String[] args) {
-	  for (;;) {
-		 
-	}
+	 
  }
 }
